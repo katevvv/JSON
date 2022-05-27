@@ -1,140 +1,16 @@
+{
+"Telegram nickname":"imeni_meniaa",
+"Bug_id":1,
+"Title":"The 'SAVE DATA' button is smaller than the others",
 
-Telegram nickname: imeni_meniaa
-Bug_id: 1
-Title: The "SAVE DATA" button is smaller than the others
+"Severity":"trivial",
+"Priority":"low",
 
-Severity: trivial
-Priority: low
+"Environment":"Pixel 4, Android 11.0",
 
-Environment: 1) Xiaomi Redmi S2, android 9 PKQ1.181203.001, MIUI  global 12.0.1
- 2)Samsung Galaxy A8(SM-A530F), android 9, A530FXXULCUK6
-3) Xiaomi Redmi 5 Plus, android 8.1.0, MIU Global 11.0.2.0
-4) Huawei p10 lite (WAS LX-1), Android 8.0.0
-5) Xiaomi Redmi Note 8 Pro, Android 10 QP1A.190711.020, MIUI  global 12.0.8 Stable
- 6) Xiaomi Redmi Note 10 (MIUI Global 12.5.17) Android 11 RP1A.200720.011 
-7) Samsung Galaxy s10e, Android 12
-8) Xiaomi Mi 9SE (MIUI Global 12.5.1) Android 11 RKQ1.200826.002
-9) Nokia X20, Android 12
-10) Honor 8 Pro (DUK-L09), Android 9
-11)Xiaomi Mi8 (Android 10)
-12) Xiaomi Redmi Note 4, Android 7.0 NRD90M
-13) Huawei P30, EMUI 12.0.0.132
+"AR":"The application buttons have one view",
 
-14) Realme C21 (UI 2.0) Android 11 RMX3201_11_C.09 
-15) Xiaomi Redmi Note 9, Android 10 QP1A.190711.020, MIUI  global 12.0.6
-16) Realme 8 Pro, Android 11 RMX3081_11A.47
-17) Xiaomi Redmi Note 6 Pro, Android 9 PKQ1.180904.001, MIUI Global 12.0.1
-18) Samsung Galaxy A72, Android 11 
-19) Samsung Galaxy S8+, Android 9, One UI 1.0
-
-20) Xiaomi Redmi Note 7, Android 10, QKQ1.190910.002, MIUI  global 12.5.3 (and MIUI  global 12.5.1)
-21)Xiaomi Redmi 9T, android 10 QKQ1.200830.002, MIUI Global 12.0.4
-22)Samsung A50,Android 11
-23) HONOR 9X (STK-LX1), Android 10
-23) Xiaomi Redmi 5 Plus; Android 8.1.0 OPM1.171019.019; MIUI Global 11.02.2
-24) Honor 8X, Android v. 10.0.0.261
-25) Samsung Galaxy A32, Android 12 A325FXXU2BVD4, One UI 4.1
-26) Samsung Galaxy Z Flip3 5G, Android 12
-27) Xiaomi Redmi Note 8 Pro, Android 10 QP1A.190711.020, MIUI Global 12.0.7.0
-28) Samsung Galaxy A50, Android 10, Version One UI 2.0.
-29) Poco X3 NFC (M2007J20CG), Android 10QKQ1
-30) HUAWEI P smart 2019 POT-LX1, Android 9, EMUI version:  9.1.0, Build number: 9.1.0.318
-31) Xiaomi Mi 9 lite, MIUI Global 12.0.10 Stable 10 QKQ1.190828.002
-32) Xiaomi Redmi 6A, Android 9, MIUI Global 11.0.8
-33) Redmi Note 8 pro, android 11 RP1A.200720.011, MIUI Global 12.5.6
-34) Huawei P30 lite, Android 10, 10.0.0.560(C461E6R1P1) GPU Turbo, Модель: MAR-LX1B, Версия EMUI: 10.0.0
-35) Huawei P20 Lite, Android 9
-36) Honor 30 i (LRA-LX1), Android 10, 3.1.0.147(C10E1R3P2) GPU Turbo, Magic UI 3.1.0
-37) Huawei P30 Lite, Android 10
-38) Honor 20, Android 10 Magic UI 4.0.0
-39) Xiaomi Redmi Note 8 ; Android 11 RKQ1.201004.002 ;  MIUI Global 12.5.2
-40) Samsung Galaxy A30s, Android 10
-41) Samsung S21 ultra, android 12, One UI version 4.1
-42) Pixel XL, android 9
-43) Redmi Note 8 Pro MIUI 12.5.7 Stable Android 11 RP1A.200720.011 
-44) Honor 50 Lite NTN - LX1Android 10 Magic UI 4.2
-45) Redmi Note 6 Pro, Android 9 PKQ1.180904.001, MIUI Global  12.0.1
-46) Xiaomi 11 Lite 5G NE, Android 12, MIUI Global 13.0.1
-47) Samsung Galaxy s21 5G , Android 12.0,   One UI 4.1	
-48) Xiaomi Redmi Note 8T MIUI 15.5.2.0 Stable: Android 11 RKQ1.201004.002
-49) Xiaomi Redmi 8 , Android 10 QKQ1.191014.001
-50) Xiaomi Mi 10 Lite, Android 10 QKQ1.191222.002, MIUI 12.0.3
-51) POCO X3 PRO, Android 12 SKQ1.211066.001|MIUI Global 13.0.4.0 Stable (SJUMIXM)
-52) Samsung galaxy S20(SM-G980F/DS), Android 12(One UI 4.1), v.G980FXXUEFVDB
-Android 11 Magic UI 4.2
-53) Xiaomi Mi MIX 2S, Android 10 QKQ1.190828.002, miui 12.0.3 Стабильная 12.0.3.0(QDGMIXM)
-54) Redmi 9T, Android 11 RQO1.201004.002, MIUI Global 12.5.9 Стабильная
-55) Samsung Galaxy S10+(SM-G975F/DS), android 12 (G975FXXUEHVB9), ONE UI 4.1
-56) Samsung Galaxy A51, Android 11, A515FXXU5EUL3 (One UI 3.1)
-57) Huawei Honor 10, Android 8.1.0
-58) Samsung Galaxy S10(SM-G973F/DS), android 12 (G973FXXUFHVE1), ONE UI 4.1
-59) Samsung Galaxy A30s (SM-A307FN/DS), Android 11, One UI 3.1
-60) Xiaomi Redmi Note 9, Android 11 RP1A.200720.011, MIUI  global 12.5.4
-61) Xiaomi mi a1 Android 10 lineage_tissot-userdebug 10 QP1A.190711.020 eng.pranav.20191004.165458 test-keys
-62) Xiaomi M2012K11AG  ANDROID 12.SKQ.211006.001 MIUI 13.0.1.0
-63) Samsung Galaxy A7 (SM-A750FN) Android 10
-64) Huawei P30 lite (MAR LX-1M), Android 10 EMUI 10.0.0.490
-65) Realme 8i (UI 2.0), Android 11, RMX3151_11_A.41, M_V3_P10
-66)  Honor 20 pro (YAL-L41), Android 10 
-67) Samsung galaxy S 20 FE (SM-G780G/DSM), Android 12(One UI 4.1), v.G780GXXU3CVC2
-68) Huawei Nova 3, Android 9
-69) Samsung Galaxy S9, Android 10, One UI 1.0
-70) Xiaomi Redmi 6 Pro MIUI 10.5 Android 9
-71) Pixel 4, Android 11
-72) Samsung Galaxy SM-A705FN/DS, Android 11
-73) Poco X3 Pro, Android 11 RKQ 1.200826.002, MIUI Global 12.5.6 Stable 12.5.6.0.(RJURUXM)
-74) Samsung Galaxy J4 (SM-J400F), Android 10 (J400FXXS9CVB1), One UI 2.0 
-75) Xiaomi MI PAD 4 PLUS (MIUI by xiaomi.eu 10.3 | Stable 10.3.1.0(ODJCNFI)) Android 8.1.0
-76) OPPO Reno4 Z 5G, Android 11, ColorOS v 11.1
-77) ONEPLUS NORD 2 Android 11 OxygenOS 11.3
-78) Xiaomi Redmi Note 9 Pro, Android 11 RKQ1.200826.002, MIUI Global 12.5.5
-79) Samsung Galaxy A70, Android 11 версия ONE UI 3.1
-80)Poco M3 Pro MIUI Global 12.5.5 Android 11
-81) Samsung Galaxy S21+, Android 12, One UI 4.1
-82) Xiaomi Mi MAX 3, Android 10 QKQ1.190910.002, MIUI  global 12.0.1
-83)Samsung Galaxy J6, Android 10, ONE UI 2.0
-84) Oneplus 9R, Android 12.0
-85) Vivo Y19 (vivo 1915), Android 12, 6.53-inch screen, Wi-Fi.
-86) POCO F3/Android 12 SKQ1.211006.001/ MIUI Global 13.0.1
-87) Xiaomi Mi Note 10 Lite, Android 12 SKQ1. 210908.001, MIUI global 13.0.1
-88) Xiaomi Redmi Note 8, Android 11 RP1A.200720.011(MIUI Global бгг 12.5.7)
-89)Xiaomi Redmi 9, MIUI Global 12.0.4, Android 10 QP1A.190711.020 
-90) Samsung Galaxy М52, Android 11ONE UI 3.1
-91) POCO M4 Pro 5G, Android 11, MIUI Global 12.5.6
-92) Xiaomi Redmi 10 Pro,MIUI Global 12.5.7 Android 11RKQ1.20826.002
-93) Honor 8X JSN-L21 Android 10.0.0.261
-94) Redmi Note 8 pro, android 11 RP1A.200720.011, MIUI Global 12.5.3
-95)HUAWEI G700-U20, Android v.4.2.1, build number: G700-U20 V100R001C00B123
-96) Sony Xperia X Performance, Android 8.0.0
-97) Pixel 4, android 12
-98) honor 9 lite
-99) Samsung SM-M215F (M21)
-100) Samsung Galaxy A02.
-Android 11
-One UI Core 3.1
-101) Vivo Y31 V2036; Android 11; ROM: Funtouch OS 11 Global; Build: PD2050BF_EX_A_1.12.10
-102) huawei nova 9 EMUI 12.0.1
-103) Huawei, POT-LX1, Android 10;
-104) Android Emulator: Pixel 3a API 30, android version 11.0
-105) Oppo A52, CPH2069, Android 10
-106) Google Pixel 5, Android 13 
-107)Samsung Galaxy A51, Android 11, A515FXXU5EUL3 (One UI 3.1)
-108) Asus ZE620KL, Android 9
-109) Android SDK built for x86, Android 10 QSR1.190920.
-110) Realme 8 (UI 2.0) Android 11 RMX3085_11_A.24
-111) Redmi 9 Android 10 QP1A190711.020 MIUI Global 12.0.4
-112) Xiaomi Redmi 9, Android 11 RP1A.200720.011, MIUI Global 12.5.5
-113) Samsung Galaxy s9+(G965FXXUHFVB4)
-114)Samsung Galaxy a51,Android 11
-115)Samsung Galaxy a52, Android 12
-116) Pixel_5 Android v 12.0 (S) - API 31 Pixel Launcher
-117)Xiaomi Redmi Note 7 ; android 9 PKQ1.180904.001
-MIUI  global 11.0.6.0
-118) Xiaomi Redmi Note 9S, Android 11 RKQ1.200826.02, MIUI Global 12.5.5
-119) Redmi Note 10, Android 12 SKQ1.210908.001, MIUI Global 13.0.7
-
-AR: The application buttons have one view
-
-ER: The “SAVE DATA” button is smaller than the others
-Attachments: https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing 
+"ER":"The 'SAVE DATA' button is smaller than the others",
+"Attachments":"https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing"
+}
 
